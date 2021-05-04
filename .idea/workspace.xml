@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/cheatsheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/cheatsheet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/offcanvas.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/css/offcanvas.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/offcanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/js/offcanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/css/doc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,20 +20,37 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1raS4bCsJjI5EnfRXmmZ0VSB5lY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/khalmas.me/Documentation" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Almas\OneDrive\Documents\mainsite\documentation\assets\js" />
+      <recent name="C:\Users\Almas\OneDrive\Documents\mainsite\documentation\assets\css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +62,20 @@
       <updated>1619212516954</updated>
       <workItem from="1619212518410" duration="944000" />
       <workItem from="1619215641259" duration="1118000" />
+      <workItem from="1619217031286" duration="44000" />
+      <workItem from="1619289219796" duration="599000" />
+      <workItem from="1619371751848" duration="1305000" />
+      <workItem from="1619543424558" duration="1799000" />
+      <workItem from="1619649684548" duration="761000" />
+      <workItem from="1619716057941" duration="3110000" />
+      <workItem from="1619789723452" duration="456000" />
+      <workItem from="1619903886565" duration="2320000" />
+      <workItem from="1619973510878" duration="12356000" />
+      <workItem from="1620047490702" duration="1853000" />
+      <workItem from="1620061738095" duration="8394000" />
+      <workItem from="1620073261126" duration="306000" />
+      <workItem from="1620147141275" duration="974000" />
+      <workItem from="1620148240344" duration="11572000" />
     </task>
     <servers />
   </component>
@@ -44,6 +83,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,11 +1,9 @@
-@media (max-width: 768px) {
-  html {
-    overflow-x: hidden; /* Prevent scroll on narrow devices */
-  }
-}
 body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
+  padding-top: 56px;
 }
+
+
 
 nav a{
   color: #FFFFFF;
@@ -15,6 +13,10 @@ nav a:hover{
 }
 
 @media (max-width: 991.98px) {
+  html,
+  body {
+    overflow-x: hidden; /* Prevent scroll on narrow devices */
+  }
   .offcanvas-collapse {
     position: fixed;
     top: 56px; /* Height of navbar */

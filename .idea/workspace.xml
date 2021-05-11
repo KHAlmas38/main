@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/cheatsheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/cheatsheet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/offcanvas.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/css/offcanvas.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/offcanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/js/offcanvas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/assets/css/doc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/khalmas.me/Documentation" />
+    <property name="last_opened_file_path" value="F:/Design/volt" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +67,11 @@
       <workItem from="1620061738095" duration="8394000" />
       <workItem from="1620073261126" duration="306000" />
       <workItem from="1620147141275" duration="974000" />
-      <workItem from="1620148240344" duration="11572000" />
+      <workItem from="1620148240344" duration="12216000" />
+      <workItem from="1620169700299" duration="22000" />
+      <workItem from="1620207449321" duration="1890000" />
+      <workItem from="1620239870370" duration="37000" />
+      <workItem from="1620755591807" duration="479000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/admin/assets/video/52 GAJ KA DAMAN  PRANJAL DAHIYA  AMAN JAJI  RENUKA PANWAR  MUKESH JAJI  SAHIL SANDHU.mp4" beforeDir="false" />
-    </list>
+    <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <workItem from="1622405080373" duration="600000" />
       <workItem from="1622413089854" duration="39000" />
       <workItem from="1622472499212" duration="6020000" />
-      <workItem from="1622505963619" duration="425000" />
+      <workItem from="1622505963619" duration="1017000" />
     </task>
     <servers />
   </component>

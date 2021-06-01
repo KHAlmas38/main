@@ -1,20 +1,73 @@
-/*
-
-=========================================================
-* Volt - Free Bootstrap 5 Dashboard
-=========================================================
-
-* Product Page: https://themesberg.com/product/admin-dashboard/volt-premium-bootstrap-5-dashboard
-* Copyright 2020 Themesberg (https://www.themesberg.com)
-
-* Designed and coded by https://themesberg.com
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. Please contact us to request a removal. Contact us if you want to remove it.
-
-*/
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700&display=swap");
+
+tfoot input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+/* Hide scrollbar for IE and Edge */
+.hide_scrollbar{
+    -ms-overflow-style: none;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide_scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+@media (min-width: 992px) {
+    .videonotestyle{
+        width: 26.33333% !important;
+        height: 100vh !important;
+        right: 0 !important;
+        top: 0 !important;
+        left: 73.666667% !important;
+        overflow-y: scroll !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .videonotestyle{
+        width: 45% !important;
+        height: 100vh !important;
+        right: 0 !important;
+        top: 0 !important;
+        left: 55% !important;
+        overflow-y: scroll !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .videonotestyle{
+        width: 100% !important;
+        height: 100vh !important;
+        right: 0 !important;
+        top: 0 !important;
+        left: 0 !important;
+        overflow-y: scroll !important;
+    }
+}
+
+
+
+.iconsidebar{
+    width: 70px !important;
+}
+.iconsidebar:hover {
+    width: 260px !important;
+}
+@media (min-width: 768px) {
+    .iconsidebarcontent {
+        margin-left: 80px !important;
+    }
+}
+
+
 
 .datepicker {
     display: none;
@@ -1639,12 +1692,9 @@ progress {
 }
 
 .row > * {
-    flex-shrink: 0;
     width: 100%;
     max-width: 100%;
-    padding-right: calc(var(--bs-gutter-x) / 2);
-    padding-left: calc(var(--bs-gutter-x) / 2);
-    margin-top: var(--bs-gutter-y);
+    padding: 7px;
 }
 
 .col {
@@ -1697,7 +1747,7 @@ progress {
 }
 
 .col-2 {
-    flex: 0 0 auto;
+    flex: 0;
     width: 16.66667%;
 }
 
@@ -9004,6 +9054,9 @@ textarea.form-control-lg {
 @media (min-width: 1200px) {
     .modal-xl {
         max-width: 1140px;
+    }
+    .image-modal-xl {
+        max-width: 100%;
     }
 }
 

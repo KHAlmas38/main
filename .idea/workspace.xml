@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/volt.css" beforeDir="false" afterPath="$PROJECT_DIR$/admin/assets/css/volt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/flags/israel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/new-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/new-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/profile-settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/profile-settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/task-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/task-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/update-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/update-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/view-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/view-profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Design/volt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../laragon/www/volt" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +84,12 @@
       <workItem from="1620755591807" duration="2844000" />
       <workItem from="1620845575757" duration="123000" />
       <workItem from="1621544052096" duration="1749000" />
-      <workItem from="1622236498774" duration="1125000" />
+      <workItem from="1622236498774" duration="2780000" />
+      <workItem from="1622239903571" duration="63000" />
+      <workItem from="1622404331781" duration="18000" />
+      <workItem from="1622405080373" duration="600000" />
+      <workItem from="1622413089854" duration="39000" />
+      <workItem from="1622472499212" duration="6020000" />
     </task>
     <servers />
   </component>

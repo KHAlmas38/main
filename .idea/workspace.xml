@@ -3,22 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/new-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/new-user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/play-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/play-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/profile-settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/profile-settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/task-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/task-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/transactions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/update-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/update-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/videos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/view-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/view-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/qna.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/qna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/singleqna.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/singleqna.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +91,7 @@
       <workItem from="1622472499212" duration="6020000" />
       <workItem from="1622505963619" duration="1152000" />
       <workItem from="1622643729793" duration="2239000" />
-      <workItem from="1622666834099" duration="4318000" />
+      <workItem from="1622666834099" duration="5467000" />
     </task>
     <servers />
   </component>

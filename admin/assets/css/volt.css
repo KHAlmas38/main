@@ -57,6 +57,7 @@ tfoot input {
 
 .iconsidebar{
     width: 70px !important;
+    overflow-x: hidden !important;
 }
 .iconsidebar:hover {
     width: 260px !important;
@@ -25466,6 +25467,7 @@ textarea.form-control-lg {
   .sidebar .notification-count {
     opacity: 1;
     transition: opacity 0.3s;
+    overflow-x: hidden;
 }
 
 @media (prefers-reduced-motion: reduce) {

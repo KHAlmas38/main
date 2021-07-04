@@ -3,19 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="63e7ba26-33ea-4029-af72-09da989abb50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/assets/css/volt.css" beforeDir="false" afterPath="$PROJECT_DIR$/admin/assets/css/volt.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/new-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/new-user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/play-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/play-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/profile-settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/profile-settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/task-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/task-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/transactions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/update-profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/videos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/view-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/petshop/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/petshop/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petshop/assets/js/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/petshop/assets/js/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petshop/assets/js/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/petshop/assets/js/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petshop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/petshop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petshop/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/petshop/shop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +98,7 @@
       <workItem from="1622666834099" duration="5906000" />
       <workItem from="1622729181970" duration="1003000" />
       <workItem from="1622738292739" duration="2488000" />
+      <workItem from="1625426489104" duration="59000" />
     </task>
     <servers />
   </component>

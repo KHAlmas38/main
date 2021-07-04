@@ -843,11 +843,11 @@ footer{
 .pet_set_hero {
     background-image: url("../img/pet-sitting-services/The-Best-Pet-Sitting-Service-in-Dallas-Austin-TX.jpg");
     width: 100%;
-    height: 700px;
+    height: 600px;
     background-repeat: no-repeat;
     background-color: aliceblue;
     background-position: top left;
-    background-size: contain;
+    background-size: cover;
 }
 
 .pet_set_hero_content{
@@ -871,13 +871,22 @@ footer{
     z-index: -1;
 }
 
-@media screen and (max-width: 1320px) and (min-width: 600px){
-
+@media screen and (max-width: 1280px) and (min-width: 795px){
+    .pet_set_hero {
+        background-position: top right;
+    }
 }
 
-@media(max-width:1019px){
+@media(max-width:794px){
     .pet_set_hero {
+        background-position: top left;
+        height: 400px;
+    }
 
+    .pet_set_hero_content{
+        width: 100%;
+        top: 0;
+        left: 0;
     }
 }
 /* pet-sitting-services end */
